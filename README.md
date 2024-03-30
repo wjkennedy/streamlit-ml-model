@@ -1,10 +1,9 @@
-# 📦 Streamlit App Starter Kit 
+# A9 ML for Jira (Demo)
 ```
 ⬆️ (Replace above with your app's name)
 ```
 
-Description of the app ...
-
+What: Extract data from Jira to build a Machine Learning model which can be used by a service for classifying incoming issues
 ## Demo App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ml-model-builder-template.streamlit.app/)

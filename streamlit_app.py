@@ -9,8 +9,8 @@ import time
 import zipfile
 
 # Page title
-st.set_page_config(page_title='ML Model Building', page_icon='🤖')
-st.title('🤖 ML Model Building')
+st.set_page_config(page_title='ML Model Building', page_icon='🥸')
+st.title('A9 Jira ML Model Builder')
 
 with st.expander('About this app'):
   st.markdown('**What can this app do?**')
